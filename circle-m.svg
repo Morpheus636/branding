@@ -10,11 +10,11 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   width="700pt"
-   height="700pt"
-   viewBox="0 0 517.56008 545.80896"
+   width="677.17126pt"
+   height="677.17126pt"
+   viewBox="0 0 500.68116 528.00878"
    id="svg13"
-   sodipodi:docname="red-m (copy).svg"
+   sodipodi:docname="circle-m.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <metadata
      id="metadata126">
@@ -51,16 +51,21 @@
      showgrid="false"
      showguides="true"
      inkscape:zoom="0.81772145"
-     inkscape:cx="443.62151"
-     inkscape:cy="432.66747"
+     inkscape:cx="428.40232"
+     inkscape:cy="417.44829"
      inkscape:window-width="1920"
      inkscape:window-height="1048"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg13" />
+     inkscape:current-layer="svg13"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <g
-     id="g850">
+     id="g850"
+     transform="translate(-8.9001118,-8.900092)">
     <circle
        r="263.17603"
        cy="272.90448"
