@@ -1,8 +1,8 @@
 # Morpheus636 Branding
 This repository is an archive of my most up-to-date personal and project brand assets. 
 
-It is posted publicly primarily for technical reasons, but it also exists as a "media kit" in case you would like to use my brand assets within the limits
-of the brand use guidelines below.
+It is posted publicly primarily for technical reasons, but the following brand use guidelines are available if you
+need to use the assets for whatever reasons.
 
 # Brand Use Guidelines
 - You **MAY** use Morpheus636 branding to refer to Josh Levin (Morpheus636) or projects developed by him, including within written and/or video coverage.
