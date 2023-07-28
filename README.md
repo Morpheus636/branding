@@ -13,7 +13,7 @@ to the main branch are immediately pushed to production. Pull requests will be c
 - You **MAY NOT** modify Morpheus636 branding in any way.
 - You **MAY NOT** Use Morpheus636 branding in a way that suggests any affiliation with or endorsement by Josh Levin (Morpheus636)
 - You **MAY NOT** Use Morpheus636 branding in your content in a way that suggests it was written by or represents the views of Josh Levin (Morpheus636)
-- You **MAY NOT** Use Morpheus636 branding to impersonate or immitate Josh Levin (Morpheus636)
+- You **MAY NOT** Use Morpheus636 branding to impersonate or imitate Josh Levin (Morpheus636)
 - You **MAY NOT** Use Morpheus636 branding in the context of any illegal or unethical activity, including that which infringes on the rights of any other party.
 
 These guidelines may be updated at any time without notice. I, Josh Levin, reserve the right to take appropriate action against
